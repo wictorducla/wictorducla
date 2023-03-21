@@ -4,7 +4,7 @@
 - 🌱 Graduando em Analise e Desenvolvimento de Sistemas
 - 👯 HTML|CSS|Javascript|Java
 - 📫 Linkedin: https://www.linkedin.com/in/wictorducla/
-- ⚡ Curiosidades: ...
+- ⚡ Curiosidades: Apaixonado por resolver problemas e por jogos
 
 <div>
   <a href="https://github.com/wictorducla">
