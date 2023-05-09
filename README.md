@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Computacional
 - 🌱 Graduando em Analise e Desenvolvimento de Sistemas
-- 👯 HTML|CSS|Javascript|Java
+- 👯 HTML | CSS | Javascript | Java
 - 📫 Linkedin: https://www.linkedin.com/in/wictorducla/
 - ⚡ Curiosidades: Apaixonado por resolver problemas e por jogos
 
